@@ -1,7 +1,7 @@
 import React from 'react'
 import If from './if'
 
-export default props => {
+export default props => (
 
 	<If test={ !props.hide }>
 
@@ -11,4 +11,4 @@ export default props => {
 
 	</If>
 
-}
+)
