@@ -32,5 +32,6 @@ export const todoForm = props => {
 	)
 }
 const mapStateToProps = state => ({description: state.todo.description})
-const mapDispatchToProps = dispatch => bindActionCreators({ changeDescription }, dispatch)
-export default connect(mapStateToProps, mapDispatchToProps())(todoForm)
+const mapDispatchToProps = dispatch =>
+    bindActionCreators({ changeDescription }, dispatch)
+export default connect(mapStateToProps, mapDispatchToProps)(todoForm)
