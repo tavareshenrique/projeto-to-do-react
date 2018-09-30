@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="120ddb30-2909-4edf-945b-7ba149e09283" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/todo/todo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo/todo.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/todo/todoAction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo/todoAction.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo/todoForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo/todoForm.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/todo/todoReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo/todoReducer.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/public/" />
@@ -72,13 +72,13 @@
           <entry key="gitignore" value="2" />
           <entry key="js" value="8" />
           <entry key="json" value="1" />
-          <entry key="jsx" value="16" />
+          <entry key="jsx" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="1" />
-          <entry key="JSX Harmony" value="16" />
+          <entry key="JSX Harmony" value="19" />
           <entry key="JavaScript" value="8" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
@@ -86,14 +86,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="20" />
-          <entry key="js" value="1359" />
-          <entry key="jsx" value="1759" />
+          <entry key="js" value="1496" />
+          <entry key="jsx" value="1761" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSX Harmony" value="1759" />
-          <entry key="JavaScript" value="1359" />
+          <entry key="JSX Harmony" value="1761" />
+          <entry key="JavaScript" value="1496" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
@@ -106,19 +106,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/todo/todo.jsx">
+        <entry file="file://$PROJECT_DIR$/src/todo/todoReducer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="50" column="25" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="25" />
+            <state relative-caret-position="105">
+              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/todo/todoAction.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/todo/todoForm.jsx">
+        <entry file="file://$PROJECT_DIR$/src/todo/todo.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -127,19 +136,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/todo/todoAction.js">
+        <entry file="file://$PROJECT_DIR$/src/todo/todoForm.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/todo/todoReducer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+            <state relative-caret-position="225">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,14 +167,14 @@
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/src/main/app.jsx" />
         <option value="$PROJECT_DIR$/src/template/css/custom.css" />
-        <option value="$PROJECT_DIR$/src/todo/todo.jsx" />
         <option value="$PROJECT_DIR$/src/main/reducers.jsx" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/index.jsx" />
-        <option value="$PROJECT_DIR$/src/todo/todoReducer.js" />
-        <option value="$PROJECT_DIR$/src/todo/todoAction.js" />
         <option value="$PROJECT_DIR$/src/todo/todoList.jsx" />
+        <option value="$PROJECT_DIR$/src/todo/todoReducer.js" />
         <option value="$PROJECT_DIR$/src/todo/todoForm.jsx" />
+        <option value="$PROJECT_DIR$/src/todo/todoAction.js" />
+        <option value="$PROJECT_DIR$/src/todo/todo.jsx" />
       </list>
     </option>
   </component>
@@ -292,12 +295,12 @@
       <workItem from="1538242962428" duration="1364000" />
       <workItem from="1538244471420" duration="2844000" />
       <workItem from="1538249685547" duration="122000" />
-      <workItem from="1538249852515" duration="9506000" />
+      <workItem from="1538249852515" duration="11131000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24676000" />
+    <option name="totallyTimeSpent" value="26301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1600" height="900" extended-state="6" />
@@ -403,14 +406,7 @@
     <entry file="file://$PROJECT_DIR$/src/todo/todoReducer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/todo/todoAction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -424,17 +420,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/todo/todo.jsx">
+    <entry file="file://$PROJECT_DIR$/src/todo/todoForm.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="50" column="25" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="25" />
+        <state relative-caret-position="225">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/todo/todoForm.jsx">
+    <entry file="file://$PROJECT_DIR$/src/todo/todoAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/todo/todo.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
